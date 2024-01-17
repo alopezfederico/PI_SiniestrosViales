@@ -57,8 +57,12 @@ Aspectos destacados necesarios: Busqueda de valores faltantes, valores atípicos
 
 # BREVE EXPLICACION:
 
-* En este repo existe una carpeta llamada Data_inicial la cual contiene el archivo portador del dataset obligatorio para el proyecto llamado 'homicidios.xlsx'
-* Un archivo llamado 'ETL_EDA_Hechos.ipynb' en donde hago un desarrollo de Exploratory Data Analisis, un breve procedimiento de ETL, donde termino combinando las tablas de mi archivo anteriormente mencionado. resultando de éste en un nuevo dataset el cual exporto en la carpeta de Data_inicial con el nombre de df_hechos_csv.csv el cual voy a utilizar para el dashboard realizado en PowerBI
+* En este repo existe una carpeta llamada Data_inicial la cual contiene:
+  - el archivo portador del dataset obligatorio para el proyecto llamado 'homicidios.xlsx'
+  - Dos archivos .ipynb, uno de EDA y ETL principal, el cual desarrolla el modelado y organizacion de la informacion a utilizar llamado 'ETL_EDA_Hechos.ipynb', y el otro que fue creado para la generacion de dos archivos con las coordenadas de los siniestros
+  - 4 Archivos resultates de 2 dataframes en dos tipos de formato: csv y xlsx, los cuales voy a utilizar para el dashboard realizado en PowerBI
+    
+* En el archivo llamado 'ETL_EDA_Hechos.ipynb' hago un desarrollo de Exploratory Data Analisis, un breve procedimiento de ETL, donde termino combinando las tablas de mi archivo anteriormente mencionado.
 * Este archivo README.md detallando un poco la informacion del repositorio
 * El archivo Dashboard.pbix el cual contiene la presentacion de la informacion
 
