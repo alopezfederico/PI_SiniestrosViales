@@ -1,6 +1,4 @@
-# **PROYECTO INDIVIDUAL 2**
-
-## **TEMA:** Siniestros viales
+# **PROYECTO Siniestros viales**
 
 # <h1 align=center> **Federico Lopez** </h1>
 
