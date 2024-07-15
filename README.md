@@ -53,7 +53,7 @@ Aspectos destacados necesarios: Busqueda de valores faltantes, valores atípicos
 * **OBLIGATORIA**:
     - [Buenos Aires Data](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales): El dataset denominado Homicidios 
 
-# BREVE EXPLICACION:
+# BREVE EXPLICACIÓN:
 
 * En este repo existe una carpeta llamada Data_inicial la cual contiene:
   - el archivo portador del dataset obligatorio para el proyecto llamado 'homicidios.xlsx'
